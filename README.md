@@ -87,8 +87,8 @@ If one is missing, most browsers pretend one is there, but you should always be
 explicit and define it yourself.
 
 The `doctype` tag tells our web browser which version of HTML to use. HTML is a
-language that is still evolving. We might call that the doctype of _Romeo &amp;
-Juliet_ is "Elizabethan English." The doctype of a speech by Barack Obama is
+language that is still evolving. We might call the doctype of _Romeo &amp;
+Juliet_ "Elizabethan English." The doctype of a speech by Barack Obama is
 "Modern English." The two are more similar than different, but some things
 aren't supported anymore.
 
@@ -190,7 +190,7 @@ and also describes the image to search engines.
 The `alt` tag presents a moment to talk about an important principle behind Tim
 Berners-Lee's vision for the Web: it is _inclusive_. If you're using assistive
 technologies because you have a sight impairment, you shouldn't be cut off from
-the web.  If you're in a remote community where internet access is expensive,
+the web. If you're in a remote community where internet access is expensive,
 you might choose to disable images, but not lose the web.
 
 While an `img` will "work," honoring the Web's vision for openness and
